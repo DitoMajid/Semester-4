@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Template.vcxproj, UTS_KGV.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+D:\DitoMajid\DARING\Folder Matkul\Semester 4\Komputer Grafik Visual\UTS_KGV_SMITHC\UTS_KGV_SMITHC\UTS_KGV_SMITHC\main.cpp(100,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'D:\DitoMajid\DARING\Folder Matkul\Semester 4\Komputer Grafik Visual\UTS_KGV_SMITHC\UTS_KGV_SMITHC\UTS_KGV_SMITHC\x64\Debug\vc120.pdb'; linking object as if no debug info
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  UTS_KGV.vcxproj -> D:\DitoMajid\DARING\Folder Matkul\Semester 4\Komputer Grafik Visual\UTS_KGV_SMITHC\UTS_KGV_SMITHC\UTS_KGV_SMITHC\x64\Debug\utskgv.exe
